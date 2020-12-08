@@ -1,0 +1,4 @@
+sh0:James Cook:HMS Endeavour:999140.0
+sh1:Cameron Smith:Wake Forest Rd:1220.0
+sh2:Connor:SA:1300.0
+sh3:Michele:Greenwich:2180.0
